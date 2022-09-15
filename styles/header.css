@@ -16,6 +16,9 @@
 }
 
 @media (min-width: 560px) {
+  .header {
+    padding: 24px 0;
+  }
   .header__logo {
     margin-right: auto;
   }
@@ -28,7 +31,7 @@
 
 @media (min-width: 1024px) {
   .header {
-    font-size: 20px;
+    font-size: 20px;    
   }
 
   .header__navigation {
